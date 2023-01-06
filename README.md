@@ -1,3 +1,26 @@
+
+# Pain & Gain
+
+Pain & Gain is a Fitness Web App based on MERN STACK TECHNOLOGIES , 
+It consist of Three Main Modules
+1 : Fitness E-commerce App that works with Rest API's
+2 : Personal Trainee module you can hire Professional Trainer
+3 : Chat Module is Added so  You can chat with your Trainer 
+
+## Authors
+
+- [@Abdullah Moiz](https://www.github.com/Abdullah-moiz)
+
+
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +91,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
