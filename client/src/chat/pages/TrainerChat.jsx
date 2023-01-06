@@ -59,7 +59,7 @@ export default function TrainerChat() {
             }
         })()
 
-    }, [myID])
+    }, [myID  , userData])
 
 
 

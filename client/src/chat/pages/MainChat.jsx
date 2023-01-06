@@ -65,7 +65,7 @@ export default function MainChat() {
 
         })()
 
-    }, [userEmail])
+    }, [userEmail , userData])
 
 
 
