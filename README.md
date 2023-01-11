@@ -15,7 +15,7 @@ It consist of Three Main Modules
 - [@Abdullah Moiz](https://www.github.com/Abdullah-moiz)
 
 # ScreenShots
-![1](https://user-images.githubusercontent.com/90745903/211572934-dcf53b11-6ded-4cae-aee3-438c9255350c.png)
+
 
 
 ![1](https://user-images.githubusercontent.com/90745903/211572031-4866a2ad-c5b1-481e-8bda-99db6d6a5499.png)
