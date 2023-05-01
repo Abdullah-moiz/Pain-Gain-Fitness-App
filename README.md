@@ -21,8 +21,6 @@ It consist of Three Main Modules
 ![1](https://user-images.githubusercontent.com/90745903/211572031-4866a2ad-c5b1-481e-8bda-99db6d6a5499.png)
 
 
-![2](https://user-images.githubusercontent.com/90745903/211572151-837f7938-c4f2-498c-9885-69d132c569f3.png)
-
 ![3](https://user-images.githubusercontent.com/90745903/211572188-bf00ceb8-aaf8-4f74-b9ee-c77491994403.png)
 
 
